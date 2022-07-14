@@ -1,0 +1,22 @@
+body{
+    background-color:rgba(23, 8, 97, 0.772);
+    color:yellow;
+    font-family: cursive;
+    text-align: center;
+}
+
+#foto{
+    border: rgb(215, 215, 15) solid 10px;
+    width: 300px;
+    height: 200px;
+}
+
+#parte1{
+    background-color: black;
+    color: green;
+    width:50%;
+}
+
+h1{
+    font-size: 36px;
+}
